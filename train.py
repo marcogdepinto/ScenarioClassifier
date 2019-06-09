@@ -54,7 +54,7 @@ test_set = test_datagen.flow_from_directory(test_data_dir,
 classifier.fit_generator(training_set,
  validation_data=test_set,
  steps_per_epoch=500,
- epochs=5,
+ epochs=3,
  validation_steps=100,
  callbacks=callback)
 
