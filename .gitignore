@@ -8,8 +8,8 @@
 # Generated files
 .idea/**/contentModel.xml
 
-# Ignoring Dataset
-dataset/
+# Ignoring training set
+dataset/training/
 
 # Ignoring Model (exceeds 100 mb, too large for Github)
 model/
