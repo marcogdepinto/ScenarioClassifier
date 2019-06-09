@@ -28,6 +28,10 @@ Actually the model has an **F1 score of 91% on test data**.
 
 If you want to train again the model changing the parameters, do your changes in ```train.py``` and then launch it.
 
+**Metrics (Classification Report and Confusion Matrix**
+
+![Link to metrics](https://github.com/marcogdepinto/ScenarioClassifier/blob/master/metrics/metrics.png)
+
 **Model structure**
 
 ![Link to model structure](https://github.com/marcogdepinto/ScenarioClassifier/blob/master/model.png)

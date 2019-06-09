@@ -4,7 +4,7 @@ from keras.preprocessing.image import ImageDataGenerator
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 
-model = keras.models.load_model('./model/scenarioclassifier_cat_new.h5')
+model = keras.models.load_model('./model/scenarioclassifier_91_F1_200x200_Size_3Ep.h5')
 
 print(model.summary())
 
