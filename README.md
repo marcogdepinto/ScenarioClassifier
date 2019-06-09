@@ -8,7 +8,7 @@ Project built using Python: Keras (with Tensorflow backend), numpy, scikit-learn
 
 The dataset is made of six folders (city, desert, mountain, nature, sea, universe), each one containing 25 pictures. An example of city picture is provided below.
 
-
+[Link to example picture](https://github.com/marcogdepinto/ScenarioClassifier/blob/master/examples/2.GettyImages-187703420.jpg)
 
 **How to install it**
 
