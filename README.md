@@ -4,6 +4,12 @@ Classifying different scenarios (city, desert, mountain, nature, sea, universe) 
 
 Project built using Python: Keras (with Tensorflow backend), numpy, scikit-learn have been used.
 
+**Dataset structure**
+
+The dataset is made of six folders (city, desert, mountain, nature, sea, universe), each one containing 25 pictures. An example of city picture is provided below.
+
+
+
 **How to install it**
 
 ```$ git clone https://github.com/marcogdepinto/ScenarioClassifier.git```
