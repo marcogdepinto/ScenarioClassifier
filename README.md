@@ -2,7 +2,7 @@
 
 Classifying different scenarios (city, desert, mountain, nature, sea, universe).
 
-Project built using Python: Keras (with Tensorflow backend), numpy, scikit-learn have been used.
+Project built using Python: Keras (with Tensorflow backend), numpy and scikit-learn.
 
 **Dataset structure**
 
