@@ -1,3 +1,9 @@
+"""
+Script to train a deep learning model for scenario classification.
+"""
+
+import os
+
 from keras.models import Sequential
 from keras.layers import Conv2D
 from keras.layers import MaxPooling2D
@@ -7,7 +13,6 @@ from keras.layers import Dropout
 from keras.callbacks import EarlyStopping
 from keras.utils import plot_model
 from keras.preprocessing.image import ImageDataGenerator
-import os
 
 callback = [EarlyStopping(monitor='acc', patience=1, verbose=1)]
 
